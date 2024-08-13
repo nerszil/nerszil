@@ -1,1 +1,2 @@
-![MEAN-stack-vs-MERN-stack](https://github.com/user-attachments/assets/492cd921-46c6-4959-a49a-33a506e38a8a)
+
+![MEAN-stack-vs-MERN-stack ready](https://github.com/user-attachments/assets/af8dba44-46c4-4646-b169-a8dedbc49d49)
